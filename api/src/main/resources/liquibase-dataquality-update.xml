@@ -197,7 +197,7 @@
                  endDelimiter="/0xd"/>
     </changeSet>
     
-    <changeSet id="fn_getoutcomewithpillbalanceandfrequency_20220530_1313" author="Bright" runOnChange="true">
+    <changeSet id="fn_getoutcomewithpillbalanceandfrequency_20220530_1313" author="Damilare" runOnChange="true">
         <sqlFile path="dataquality/functions/fn_getoutcomewithpillbalanceandfrequency.sql"
                  stripComments="true"
                  splitStatements="true"
